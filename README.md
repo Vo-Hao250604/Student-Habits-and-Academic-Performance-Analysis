@@ -58,7 +58,6 @@ The project includes:
 
 - Võ Thanh Hào - 2251050026  
 - Nguyễn Đức Lâm - 2251052057  
-- Nguyễn Phước Nguyên - 2251050050
 
 ## 📚 Report
 
